@@ -3,7 +3,7 @@
 // Creating initial map object
 var myMap = L.map("map", {
     center: [17.6, -8.082],
-    zoom: 5
+    zoom: 1.5
   });
   
   // Create dark map layer (the background map image)
