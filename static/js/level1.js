@@ -55,7 +55,7 @@ d3.json(queryUrl, function(data) {
       return 1;
     }
 
-    return magnitude * 4;
+    return magnitude ;
   }
     // GeoJSON layer
     L.geoJson(data, {
